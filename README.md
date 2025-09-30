@@ -1,3 +1,11 @@
+<img width="254" height="539" alt="image" src="https://github.com/user-attachments/assets/84529623-c047-4a5b-8fb0-3325d9506d66" />
+<img width="254" height="539" alt="image" src="https://github.com/user-attachments/assets/35ed5080-c778-4196-a5df-2a75272b5298" />
+<img width="254" height="539" alt="image" src="https://github.com/user-attachments/assets/38efc546-d052-41f4-b4bd-e40525a95536" />
+<img width="254" height="539" alt="image" src="https://github.com/user-attachments/assets/4f2b3b6e-a625-4154-b77a-f87434de1117" />
+<img width="254" height="539" alt="image" src="https://github.com/user-attachments/assets/da42eb9e-7c75-4b56-9b5d-3db57869de53" />
+<img width="254" height="539" alt="image" src="https://github.com/user-attachments/assets/d993d0cd-44e7-4287-a206-5f4d10df4e37" />
+
+
 # แอปพลิเคชันลงทะเบียนและยืนยันตัวตน (Flutter Firebase & SQFlite)
 
 แอปพลิเคชันตัวอย่างสำหรับ Flutter ที่สาธิตการทำงานร่วมกันระหว่าง **Firebase Authentication** สำหรับการจัดการผู้ใช้ (สมัครสมาชิก, เข้าสู่ระบบ) และ **SQFlite** สำหรับการจัดเก็บข้อมูลกิจกรรมที่ลงทะเบียนไว้บนอุปกรณ์ (Local Database)
