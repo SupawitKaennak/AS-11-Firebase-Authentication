@@ -1,0 +1,10 @@
+- [x] Add sqflite dependency to pubspec.yaml
+- [x] Create lib/models/student.dart
+- [x] Create lib/services/database_service.dart
+- [x] Create lib/screens/registration_screen.dart
+- [x] Update lib/screens/home_screen.dart to add navigation button
+- [x] Run flutter pub get
+- [x] Create lib/screens/view_registrations_screen.dart
+- [x] Update home_screen to add view button
+- [x] Add route for view screen
+- [ ] Test the app
